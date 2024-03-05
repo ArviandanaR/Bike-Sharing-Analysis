@@ -4,7 +4,6 @@ import numpy as np
 import seaborn as sb
 import matplotlib.pyplot as plt
 import datetime
-from streamlit_option_menu import option_menu
 import os
 from PIL import Image
 
