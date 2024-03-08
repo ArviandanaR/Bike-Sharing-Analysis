@@ -6,7 +6,6 @@ This is a project that required to do in order to complete Dicoding's course nam
 [Here](https://bike-rent-viz.streamlit.app/) is the streamlit app
 
 ## Setup Environment
-<h1>
 ```
 conda activate main-ds
 pip install babel streamlit pandas numpy seaborn matplotlib datetime Pillow
